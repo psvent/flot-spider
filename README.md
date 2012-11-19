@@ -1,4 +1,3 @@
-flot-spider
-===========
+## About ##
 
-Spider chart plugin for Flot
+http://www.jumware.com/Includes/jquery/Flot/Examples/spider.html
